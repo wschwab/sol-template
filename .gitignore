@@ -1,6 +1,14 @@
 # Compiler files
-cache/
-out/
+/target
+/out
+/cache
+/coverage
+lcov.info
+.DS_Store
+
+# Assorted hidden files
+.vscode
+.password
 
 # Ignores development broadcast logs
 !/broadcast
