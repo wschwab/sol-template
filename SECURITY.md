@@ -2,7 +2,7 @@
 
 ## Link to vulnerability disclosure details (Bug Bounty).
 
-https://immunefi.com/bug-bounty/example/
+https://immunefi.com/bug-bounty/alchemix/
 
 ## Languages that our team speaks and understands.
 
@@ -10,8 +10,8 @@ Preferred-Languages: en
 
 ## Security contact details.
 
-security@<INSERT_DOMAIN_HERE>
+security@alchemix.fi
 
 ## The URL for accessing the security.txt file.
 
-https://<INSERT_DOMAIN_HERE>/security.txt
+https://alchemix.fi/security.txt

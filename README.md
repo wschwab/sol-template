@@ -1,7 +1,7 @@
 ## Solidity Development Template(Foundry)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/wschwab/sol-template/actions/workflows/test.yml/badge.svg)](https://github.com/wschwab/sol-template/actions/workflows/test.yml)
+[![CI Status](https://github.com/alchemix-finance/alchemix-sol-template/actions/workflows/test/badge.svg)](https://github.com/alchemix-finance/alchemix-sol-template/actions)
 
 This template repo is a quick and easy way to get started with a new Solidity project. It comes with a number of features that are useful for developing and deploying smart contracts. Such as pre-commit hooks for formatting, auto generated documentation, and more
 
@@ -48,7 +48,7 @@ Follow these steps to set up your local environment for development:
 - Test contracts: `forge test`
 - Run coverage: `forge coverage`
 
-Note: the CI badge above is configured to run from `github.com/wschwab/sol-template/`. When forking to use this template, the badge should be modified (via the url embedded in the Markdown at the beginning of the README) to point at the target repo.
+Note: the CI badge above is configured to run from `github.com/alchemix-finance/alchemix-sol-template/`. When forking to use this template, the badge should be modified (via the url embedded in the Markdown at the beginning of the README) to point at the target repo.
 
 ## Pre-commit Hooks
 
