@@ -1,7 +1,7 @@
 ## Solidity Development Template(Foundry)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/alchemix-finance/alchemix-sol-template/actions/workflows/test.yml/badge.svg)](https://github.com/alchemix-finance/alchemix-sol-template/actions/workflows/test.yml)
+[![CI Status](https://github.com/alchemix-finance/alchemix-sol-template/actions/workflows/test/badge.svg)](https://github.com/alchemix-finance/alchemix-sol-template/actions)
 
 This template repo is a quick and easy way to get started with a new Solidity project. It comes with a number of features that are useful for developing and deploying smart contracts. Such as pre-commit hooks for formatting, auto generated documentation, and more
 
