@@ -2,7 +2,7 @@
 
 ## Link to vulnerability disclosure details (Bug Bounty).
 
-https://immunefi.com/bug-bounty/example/
+https://immunefi.com/bug-bounty/alchemix/
 
 ## Languages that our team speaks and understands.
 
